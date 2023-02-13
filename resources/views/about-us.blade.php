@@ -10,6 +10,7 @@
 
 <body>
     <h1>About us </h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum corrupti minus quibusdam qui distinctio, ipsum officia quos? Cumque quod ut adipisci, impedit quas reiciendis laboriosam debitis fugiat nobis sint neque!</p>
 
     <p>From team: Joshua</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque incidunt, cum beatae nostrum praesentium similique odio quasi corporis recusandae eligendi, quae laborum in voluptatum eum sint tempore assumenda ducimus asperiores!</p>
